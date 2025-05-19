@@ -67,3 +67,5 @@ Matrix Card – All KPIs by Outlet Type
 
 **Conclusion**
 This Power BI dashboard provides a powerful lens into InstaCart’s sales performance and outlet operations. It highlights actionable insights on where to focus for boosting sales, improving customer satisfaction, and optimizing inventory allocation.
+
+This is how the dashboard looks like: 
